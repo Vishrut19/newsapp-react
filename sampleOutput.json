@@ -1,0 +1,72 @@
+{
+  "status": "ok",
+  "totalResults": 6,
+  "articles": [
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Katherine Sayre",
+      "title": "Online Sports-Betting Apps Face Customer Complaints Over Delays Withdrawing Funds",
+      "description": "The Better Business Bureau has collected thousands of complaints from gamblers in recent years, some citing long wait times for cash-outs",
+      "url": "https://www.wsj.com/articles/online-sports-betting-apps-face-customer-complaints-over-delays-withdrawing-funds-11668224848?mod=hp_lead_pos6",
+      "urlToImage": "https://images.wsj.net/im-664493/social",
+      "publishedAt": "2022-11-12T14:00:00Z",
+      "content": "Customers have filed thousands of complaints against the biggest U.S. online sports-betting operators in recent years, many of which reported delays or glitches in withdrawing money, according to a r… [+278 chars]"
+    },
+    {
+      "source": { "id": "google-news-fr", "name": "Google News (France)" },
+      "author": "Thomas Martin",
+      "title": "Grève illimitée à la RATP à Paris et en Île-de-France : un syndicat met la pression sur Jean Castex",
+      "description": "Pour son arrivée à la tête de la RATP, Jean Castex doit faire face à la menace d'une grève illimitée dans les transports en commun à Paris et en Île-de-France.",
+      "url": "https://actu.fr/ile-de-france/paris_75056/greve-illimitee-a-la-ratp-a-paris-et-en-ile-de-france-un-syndicat-met-la-pression-sur-jean-castex_55151060.html",
+      "urlToImage": "https://static.actu.fr/uploads/2022/11/pernety-l13-greve-960x640.jpg",
+      "publishedAt": "2022-11-12T08:02:59+00:00",
+      "content": "Actu ParisVoir mon actuSuivre ce média\r\nJeudi 10 novembre, de nombreuses lignes de métro étaient à l’arrêt à Paris (©Archives/AR/ActuParis)\r\nL’ancien Premier ministre Jean Castex avait été accueilli … [+1648 chars]"
+    },
+    {
+      "source": { "id": "fox-sports", "name": "Fox Sports" },
+      "author": null,
+      "title": "NFL Week 10: Predictions, analysis, key matchups and stats for every game",
+      "description": "The FOX Sports NFL writers get you ready for Week 10 of the season with predictions, analysis and key matchups for each game.",
+      "url": "http://www.foxsports.com/stories/nfl/nfl-week-10-predictions-analysis-key-matchups-and-stats-for-every-game",
+      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/11/1408/814/11.10.22_Weekly-Preview_NFL-16x9.jpg?ve=1&tl=1",
+      "publishedAt": "2022-11-10T15:30:20Z",
+      "content": "FOX Sports' staff of NFL reporters has you covered from top to bottom going into Week 10. We'll tell you what to expect, who to watch, which numbers to be aware of and predict the outcome of each gam… [+33598 chars]"
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": null,
+      "title": " Richard Sherman Interview ",
+      "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+      "url": "https://bleacherreport.com/videos/276198-the-voncast-with-richard-sherman",
+      "urlToImage": null,
+      "publishedAt": "2022-11-03T19:37:16.4688503Z",
+      "content": null
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": null,
+      "title": "☄️️ NEW ANIME JUST DROPPED ☄️",
+      "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+      "url": "https://bleacherreport.com/videos/274175-new-anime-just-dropped",
+      "urlToImage": null,
+      "publishedAt": "2022-11-01T20:37:20.8717451Z",
+      "content": "Booker, Luka and Giannis battle for Jokics MVPs. @KOT4Q voices D-Book. Watch Ep. 2 now"
+    },
+    {
+      "source": {
+        "id": "the-washington-times",
+        "name": "The Washington Times"
+      },
+      "author": "The Washington Times https://www.washingtontimes.com",
+      "title": "Latest Quizzes",
+      "description": "Take a break from the hard news of the day and enjoy a quiz on entertainment, sports, history and politics only from The Washington Times.",
+      "url": "https://www.washingtontimes.com/quiz/",
+      "urlToImage": null,
+      "publishedAt": "2022-08-30T16:37:43.8583104Z",
+      "content": "Featured Quizzes\r\nTake the challenge to learn about the life and career highlights of famed nonagenarian actress and comedian Betty White.\r\n Shares \r\nRead our synopsis and correctly identify a litera… [+32510 chars]"
+    }
+  ]
+}
