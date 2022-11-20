@@ -33,9 +33,9 @@ const NewsItem = (props) => {
             <h5 className="card-title">{title} </h5>
             <p className="card-text">{description}</p>
             <a
-              rel="noreferrer"
               href={newsUrl}
               target="_blank"
+              rel="noopener noreferrer"
               className="btn btn-sm btn-dark btn-primary"
             >
               Read More
